@@ -57,6 +57,11 @@ body {
     padding-left: 20px;
   }
   
+  /* image */
+  .img {
+    width: 100%;
+    padding: 20px;
+  }
   /* Fake image */
   .fakeimg {
     background-color: #aaa;
