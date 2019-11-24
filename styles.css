@@ -57,19 +57,17 @@ body {
     padding-left: 20px;
   }
   
+  .img2 {
+    height: 200px;
+    float: right;
+  }
+
   /* image */
-  .img {  
-    /* padding: 200px; */
+  .img {
     max-width: 95%;
     border: 3px solid grey;
+    height: 400px;
     width: 400px;
-    /* padding: 600px */
-  }
-  /* Fake image */
-  .fakeimg {
-    background-color: #aaa;
-    width: 100%;
-    padding: 20px;
   }
   
   /* Add a card effect for articles */
