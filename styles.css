@@ -58,9 +58,12 @@ body {
   }
   
   /* image */
-  .img {
-    width: 100%;
-    padding: 20px;
+  .img {  
+    /* padding: 200px; */
+    max-width: 95%;
+    border: 3px solid grey;
+    width: 400px;
+    /* padding: 600px */
   }
   /* Fake image */
   .fakeimg {
@@ -74,6 +77,11 @@ body {
     background-color: white;
     padding: 20px;
     margin-top: 20px;
+  }
+
+  .list {
+    float: left;
+    padding-left: 20px;
   }
   
   /* Clear floats after the columns */
